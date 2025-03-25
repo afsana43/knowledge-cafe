@@ -1,15 +1,18 @@
-import { useState } from 'react'
-import './App.css'
+import "./App.css";
+import Blog from "./components/Blog/Blog";
+import Bookmarks from "./components/Bookmarks/Bookmarks";
+import Header from "./components/Header/Header";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <h1>Knowledge cafe</h1>
-     
+      <Header></Header>
+     <div className="md:flex">
+     <Blog></Blog>
+     <Bookmarks></Bookmarks>
+     </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co.com/nsSLW31m/5542357.jpg",
+      "author": "Sophia Carter",
+      "author_img": "https://i.ibb.co.com/rR8JgV99/joyous-woman-presenting-reading-new-novel-from-author.jpg",
+      "posting_date": "2025-03-20",
+      "reading_time": 5,
+      "hashtags": ["#design", "#UIUX", "#trends"]
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co.com/hRj7VzF9/5151818.jpg",
+      "author": "Liam Johnson",
+      "author_img": "https://i.ibb.co.com/xkjHb33/internet-show-host-using-professional-microphone-film-content-about-best-reviewed-books-year.jpg",
+      "posting_date": "2025-03-18",
+      "reading_time": 7,
+      "hashtags": ["#coding", "#webdev", "#JavaScript"]
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co.com/S7Hp13wK/5542361.jpg",
+      "author": "Emma Williams",
+      "author_img": "https://i.ibb.co.com/G4bD6JW6/writers-scene-concept.jpg",
+      "posting_date": "2025-03-15",
+      "reading_time": 8,
+      "hashtags": ["#productivity", "#TimeCraft", "#workflow"]
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co.com/XfdWJcTP/5171295.jpg",
+      "author": "Noah Brown",
+      "author_img": "https://i.ibb.co.com/MkxT0v6J/photo-indignant-dark-skinned-young-author-wears-transparent-glasses-casual-clothes-writes-down-notes.jpg",
+      "posting_date": "2025-03-10",
+      "reading_time": 6,
+      "hashtags": ["#AI", "#tech", "#future"]
+    }
+  ]
+  
