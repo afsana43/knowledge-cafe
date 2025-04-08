@@ -2,6 +2,7 @@
     {
       "id": 1,
       "img": "https://i.ibb.co.com/nsSLW31m/5542357.jpg",
+      "title":"Designing for Impact: Mastering UX Flow in Digital Products",
       "author": "Sophia Carter",
       "author_img": "https://i.ibb.co.com/rR8JgV99/joyous-woman-presenting-reading-new-novel-from-author.jpg",
       "posting_date": "2025-03-20",
@@ -11,6 +12,7 @@
     {
       "id": 2,
       "img": "https://i.ibb.co.com/hRj7VzF9/5151818.jpg",
+      "title":"The Art of UI/UX: Elevating User Experience with Thoughtful Design",
       "author": "Liam Johnson",
       "author_img": "https://i.ibb.co.com/xkjHb33/internet-show-host-using-professional-microphone-film-content-about-best-reviewed-books-year.jpg",
       "posting_date": "2025-03-18",
@@ -20,6 +22,7 @@
     {
       "id": 3,
       "img": "https://i.ibb.co.com/S7Hp13wK/5542361.jpg",
+      "title":"Time Management Meets Tech: Inside the TimeCraft App",
       "author": "Emma Williams",
       "author_img": "https://i.ibb.co.com/G4bD6JW6/writers-scene-concept.jpg",
       "posting_date": "2025-03-15",
@@ -29,6 +32,7 @@
     {
       "id": 4,
       "img": "https://i.ibb.co.com/XfdWJcTP/5171295.jpg",
+      "title":"From Concept to Clicks: The Journey of a Full-Stack Designer",
       "author": "Noah Brown",
       "author_img": "https://i.ibb.co.com/MkxT0v6J/photo-indignant-dark-skinned-young-author-wears-transparent-glasses-casual-clothes-writes-down-notes.jpg",
       "posting_date": "2025-03-10",
